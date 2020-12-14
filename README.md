@@ -3,7 +3,7 @@ Briefly summarize your client, Artemis Financial, and their software requirement
 
 
 
-What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+<b>What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?</b>
 
 It is vital to identify security vulnerabillities in order to protect the software from attacks that target data. Software security allows companies to safeguard it's user data and lower some of the security risks.
 
